@@ -1,21 +1,4 @@
-# The DOM Challenge
-
-If you open up index.html in the browser, you'll find a small application. It has a few features:
-
-* A Counter that increases by 1 each second
-* Plus and Minus buttons that increment or decrement the counter
-* A 'like' button (❤️) that adds a 'like' for the number that is currently displayed by the timer
-* A comment box that adds comments when submitted
-
-First, take a few minutes to explore and test out the behavior of the page. Think about how each of the features must work. What must be happening underneath each of these features?
-
-The challenge is to reverse engineer these features and build them yourself, using what you've learned about JavaScript and DOM Manipulation.
-
-## Rewriting the functionality
-
-To begin, comment out the script tag linking to `js/index.min.js` in the html file.
-
-Write your code in `js/challenge.js` - it's already included in the HTML via a `<script>` tag, so when you add your code, it will run on the page.
+`js/challenge.js` - it's already included in the HTML via a `<script>` tag, so when you add your code, it will run on the page.
 
 Add the following features one by one, refreshing the page to see your functionality working as you build.
 
